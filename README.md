@@ -4,7 +4,7 @@ This is a simple **Pricing Page** built using **HTML** and **Bootstrap 5**. It d
 
 ## 🚀 Live Link
 You can view the deployed project here:  
-[GitHub Pages Live Link](https://giridhar11411.github.io/pricing-page/)
+[Live Link](https://giridhar11411.github.io/pricing-page/)
 
 ## Technologies Used
 - **HTML5** – For structuring the webpage
